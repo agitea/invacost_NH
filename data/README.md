@@ -9,7 +9,7 @@ Dataset. https://doi.org/10.6084/m9.figshare.12668570.v5
 ### **S2 Adjusted continental scale geographical regions matching countries from InvaCost**
 Regions adjusted using https://raw.githubusercontent.com/tdwg/wgsrpd/master/109-488-1-ED/2nd%20Edition/TDWG_geo2.pdf
 
-### **S3 Natural hazards (global) costs **
+### **S3 Natural hazards (global) costs**
 Source:
 EM-DAT, CRED / UCLouvain, Brussels, Belgium international disasters database (www.emdat.be)
 data downloaded on 06 April 2022 using the following filters:

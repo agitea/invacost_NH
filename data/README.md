@@ -17,7 +17,7 @@ Disaster Classification -> Natural
 Location -> Asia, Africa, Americas, Europe, Oceania
 from 1980 to 2019
 query id x0lcUA
-# of records 13008
+number of records 13008
 
 File was modified to include a new classification of the 'Continent' field. 
 The new field is called "TDWG_level1" and is a classification based on the World Geographical Scheme for Recording Plant Distributions (WGSRPD) 

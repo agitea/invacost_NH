@@ -6,7 +6,7 @@ Repository to accompany
 
 *code written by Anna J Turbelin*
 
-## Repo includes:
+## SCRIPTS
 
 ### Code used to filter and analyse data for the study:
 RScript_S1_InvaCost_NH_2022.R
@@ -16,7 +16,8 @@ RScript_S1_InvaCost_NH_2022.R
 
 adjust_inflation_CPI.R
 
-### Data used in the analysis (in data folder):
+## KEY FILES
+*in data folder*
 
 **InvaCost_database_v4.1 - Biological Invasions costs**
 
@@ -37,5 +38,7 @@ File was modified to include a new classification of the 'Continent' field. The 
 Source: NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2022). https://www.ncei.noaa.gov/access/monitoring/billions/, DOI: 10.25921/stkw-7w73 downloaded on 06 April 2022
 
 
-### Output (in output folder):
+## OUTPUT
+*in output folder*
+
 Output from the cost includes supplementary material Data S1 - the filtered InvaCost dataset used in the analysis 

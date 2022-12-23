@@ -37,3 +37,5 @@ File was modified to include a new classification of the 'Continent' field. The 
 Source: NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2022). https://www.ncei.noaa.gov/access/monitoring/billions/, DOI: 10.25921/stkw-7w73 downloaded on 06 April 2022
 
 
+### Output (in output folder):
+Output from the cost includes supplementary material Data S1 - the filtered InvaCost dataset used in the analysis 

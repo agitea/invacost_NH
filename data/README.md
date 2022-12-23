@@ -6,7 +6,7 @@ DIAGNE, Christophe; Leroy, Boris; E. Gozlan, Rodolphe; Vaissière, Anne-Charlott
 InvaCost: Economic cost estimates associated with biological invasions worldwide.. figshare. 
 Dataset. https://doi.org/10.6084/m9.figshare.12668570.v5 
 
-### **S2 Adjusted continental scale geographical regions matching countries from InvaCost**
+### **S2 Adjusted continental geographical regions with matching countries from InvaCost**
 Regions adjusted using https://raw.githubusercontent.com/tdwg/wgsrpd/master/109-488-1-ED/2nd%20Edition/TDWG_geo2.pdf
 
 ### **S3 Natural hazards (global) costs**

@@ -6,15 +6,16 @@ Repository to accompany
 
 *code written by Anna J Turbelin*
 
-### Repo includes:
+## Repo includes:
 
-Code used to filter and analyse data for the study:
+### Code used to filter and analyse data for the study:
 RScript_S1_InvaCost_NH_2022.R
 
-Code to adjust cost for inflation using CPI - *to be used in conjunction with RScript_S1_InvaCost_NH_2022.R*
+### Code to adjust cost for inflation using CPI - *to be used in conjunction with RScript_S1_InvaCost_NH_2022.R*
 adjust_inflation_CPI.R
 
-Data used in the analysis (in data folder):
+### Data used in the analysis (in data folder):
+
 **InvaCost_database_v4.1 - Biological Invasions costs**
 
 Source: DIAGNE, Christophe; Leroy, Boris; E. Gozlan, Rodolphe; Vaissière, Anne-Charlotte; Assailly, Claire; Nuninger, Lise; et al. (2020): InvaCost: Economic cost estimates associated with biological invasions worldwide.. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12668570.v5

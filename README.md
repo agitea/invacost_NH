@@ -11,7 +11,8 @@ Repository to accompany
 ### Code used to filter and analyse data for the study:
 RScript_S1_InvaCost_NH_2022.R
 
-### Code to adjust cost for inflation using CPI - *to be used in conjunction with RScript_S1_InvaCost_NH_2022.R*
+### Code to adjust cost for inflation using CPI: 
+*to be used in conjunction with RScript_S1_InvaCost_NH_2022.R*
 adjust_inflation_CPI.R
 
 ### Data used in the analysis (in data folder):

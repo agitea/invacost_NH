@@ -4,6 +4,8 @@ Repository to accompany
 
 ### Anna J. Turbelin, Ross N. Cuthbert, Franz Essl, Phillip J. Haubrock, Anthony Ricciardi, Franck Courchamp
 
+### https://doi.org/10.1016/j.pecon.2023.03.002
+
 *code written by Anna J Turbelin*
 
 ## SCRIPTS
